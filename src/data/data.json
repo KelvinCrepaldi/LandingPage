@@ -1,0 +1,161 @@
+{
+  "Header": {
+    "title": "Nós somos o Adam Robo",
+    "paragraph": "Cuidamos da sua saúde visual, promovendo bem-estar e qualidade de vida."
+  },
+  "About": {
+    "paragraph": "Somos a Adam Robo, uma empresa dedicada a desenvolver e importar soluções acessíveis para pessoas com dificuldades visuais. Há mais de 10 anos, trabalhamos com compromisso, tecnologia e empatia para melhorar a qualidade de vida de nossos clientes.",
+    "Why": [
+      "Confiabilidade e segurança",
+      "Preço acessível para todos os bolsos",
+      "Design inovador e funcional",
+      "Comprometimento com o cliente"
+    ],
+    "Why2": [
+      "Atendimento humanizado",
+      "Tecnologia de ponta",
+      "Produtos testados e aprovados",
+      "Foco em qualidade e durabilidade"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Projeto social",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Teste sendo feito",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Locacao de equipamentos",
+      "text": "Locamos/Alugamos equipamentos para testes de visao, para empresas que nao possuem equipamentos para testar seus funcionarios ou em clientes."
+    },
+    {
+      "icon": "fa-solid fa-truck-ramp-box",
+      "name": "Venda de equipamentos",
+      "text": "Vendemos equipamentos para testes de visao, para empresas que nao possuem equipamentos para testar seus funcionarios ou em clientes."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Eventos ou Outros.",
+      "text": "Alugamos para eventos ou outros, como feiras, exposicoes, etc."
+    }
+  ],
+
+  "Contact": {
+    "address": "Rua Lindolfo Collor, 52 - Guabirotuba, Curitiba - PR, 81510-010",
+    "phone": "(41) 3532-2430",
+    "email": "contato@adamroboglobal.com",
+    "facebook": "fb.com",
+    "instagram": "https://www.instagram.com/adamrobo/",
+    "youtube": "https://www.youtube.com/adamrobo"
+  },
+  "Features": [
+    {
+      "img": "img/Adam4.jpg",
+      "title": "Adam A1",
+      "text": "O Adam A1, é o carro chefe da empresa...",
+      "description": "O Adam A1 é o sistema mais utilizado da nossa linha, oferecendo suporte completo para testes automatizados. Sua precisão e confiabilidade garantem resultados rápidos e seguros, além de possuir integração com diversos sistemas.",
+      "price": "R$ 12.500,00",
+      "gallery": ["img/Adam4.jpg", "img/Adam41.jpg", "img/Adam4b.jpg"]
+    },
+    {
+      "img": "img/Adam2.jpg",
+      "title": "Adam Eco's",
+      "text": "Solução sustentável para ambientes modernos.",
+      "description": "O Adam Eco's foi desenvolvido para minimizar o impacto ambiental sem perder eficiência. Ideal para empresas que buscam inovação e responsabilidade social.",
+      "price": "R$ 8.900,00",
+      "gallery": ["img/Adam2.jpg", "img/Adam1.jpg", "img/Adam3.jpg"]
+    },
+    {
+      "img": "img/Adam1.jpg",
+      "title": "Adam Junior",
+      "text": "Produto pensado para o público infantil.",
+      "description": "O Adam Kids é seguro, educativo e divertido. Voltado para o aprendizado lúdico com tecnologia de ponta adaptada às necessidades das crianças.",
+      "price": "R$ 4.500,00",
+      "gallery": ["img/Adam1.jpg", "img/Adam1a.jpg", "img/Adam1b.jpg"]
+    },
+    {
+      "img": "img/Adam5.jpg",
+      "title": "Adam Off",
+      "text": "Uma solução robusta para ambientes externos.",
+      "description": "Construído para resistir às condições mais adversas, o Adam Off é perfeito para operações em campo, garantindo desempenho contínuo e durabilidade.",
+      "price": "R$ 15.000,00",
+      "gallery": ["img/Adam5.jpg", "img/Adam4a.jpg", "img/Adam4b.jpg"]
+    },
+
+    {
+      "img": "img/Adam3.jpg",
+      "title": "Adam 4.0",
+      "text": "O Adam 4.0, é mais complexo...",
+      "description": "O Adam    4.0 é o sistema mais avançado da nossa linha, oferecendo suporte completo para testes automatizados. Sua precisão e confiabilidade garantem resultados rápidos e seguros, além de possuir integração com diversos sistemas.",
+      "price": "R$ 12.500,00",
+      "gallery": ["img/Adam3.jpg", "img/Adam3a.jpg", "img/Adam3b.jpg"]
+    },
+    {
+      "img": "img/Adam1.jpg",
+      "title": "Totem P",
+      "text": "Solução sustentável para ambientes modernos.",
+      "description": "O Adam Eco's foi desenvolvido para minimizar o impacto ambiental sem perder eficiência. Ideal para empresas que buscam inovação e responsabilidade social.",
+      "price": "R$ 8.900,00",
+      "gallery": ["img/Adam1.jpg", "img/Adam1a.jpg", "img/Adam1b.jpg"]
+    },
+    {
+      "img": "img/Adam2.jpg",
+      "title": "Totem M",
+      "text": "Produto pensado para o público infantil.",
+      "description": "O Adam Kids é seguro, educativo e divertido. Voltado para o aprendizado lúdico com tecnologia de ponta adaptada às necessidades das crianças.",
+      "price": "R$ 4.500,00",
+      "gallery": ["img/Adam2.jpg", "img/Adam2a.jpg", "img/Adam2b.jpg"]
+    },
+    {
+      "img": "img/Adam4.jpg",
+      "title": "Totem G",
+      "text": "Uma solução robusta para ambientes externos.",
+      "description": "Construído para resistir às condições mais adversas, o Adam Off é perfeito para operações em campo, garantindo desempenho contínuo e durabilidade.",
+      "price": "R$ 15.000,00",
+      "gallery": ["img/Adam4.jpg", "img/Adam4a.jpg", "img/Adam4b.jpg"]
+    }
+  ]
+}
